@@ -1,6 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import BannerSCSS from './banner.scss';
+import './banner.scss';
 
 const Banner = ({ backgroundImage, subtitle, title }) => {
   return (
